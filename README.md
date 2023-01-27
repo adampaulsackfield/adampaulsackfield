@@ -28,21 +28,21 @@
   
 **Languages / Frameworks:**
 <br>
-![React](https://img.shields.io/badge/react-%23494949.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![JavaScript](https://img.shields.io/badge/javascript-%23494949.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23494949.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23494949.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26) 
 ![CSS3](https://img.shields.io/badge/css3-%23494949.svg?style=for-the-badge&logo=css3&logoColor=%231572B6) 
 ![SASS](https://img.shields.io/badge/sass-%23494949.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699) 
-![Java](https://img.shields.io/badge/java-%23494949.svg?style=for-the-badge&logo=java&color=%23494949) 
- ![Spring](https://img.shields.io/badge/spring-%23494949.svg?style=for-the-badge&logo=spring&logoColor=%236DB33F) 
-![Express.js](https://img.shields.io/badge/express.js-%23494949.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![JavaScript](https://img.shields.io/badge/javascript-%23494949.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23494949.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%23494949.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-%23494949.svg?style=for-the-badge&logo=node.js&logoColor=%23339933)
+![Express.js](https://img.shields.io/badge/express.js-%23494949.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Java](https://img.shields.io/badge/java-%23494949.svg?style=for-the-badge&logo=java&color=%23494949) 
+![Spring](https://img.shields.io/badge/spring-%23494949.svg?style=for-the-badge&logo=spring&logoColor=%236DB33F) 
 ![GNU Bash](https://img.shields.io/badge/bash-%23494949.svg?style=for-the-badge&logo=gnubash&logoColor=%234EAA25)
   
-  **Databases**
-  <br>
-  ![MySQL](https://img.shields.io/badge/mysql-%23FC4C02.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1) 
+**Databases**
+<br>
+![MySQL](https://img.shields.io/badge/mysql-%23FC4C02.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%23FC4C02.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248) 
   
 **Testing:**
