@@ -60,6 +60,7 @@
 ![Docker](https://img.shields.io/badge/docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=%2300C7B7)
 ![Vagrant](https://img.shields.io/badge/vagrant-%23000000.svg?style=for-the-badge&logo=vagrant&logoColor=%231868F2)
 ![Packer](https://img.shields.io/badge/packer-%23000000.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23000000.svg?style=for-the-badge&logo=kubernetes&logoColor=%23326CE5)
   
 **DevOps - Automation**
 <br>
@@ -67,14 +68,12 @@
 ![Ansible](https://img.shields.io/badge/ansible-%2373C3D5.svg?style=for-the-badge&logo=ansible&logoColor=%23EE0000)
 ![Terraform](https://img.shields.io/badge/terraform-%2373C3D5.svg?style=for-the-badge&logo=terraform&logoColor=%237B42BC)
   
-
-**Version Control:**
-<br>
-  
   **Operating Systems**
   <br>
   ![Linux](https://img.shields.io/badge/linux-%23494949.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/macos-%23494949.svg?style=for-the-badge&logo=macos&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-%23494949.svg?style=for-the-badge&logo=windows&logoColor=white)
   
+  
+  ![adampaulsackfield' Activity Graph](https://activity-graph.herokuapp.com/graph?username=adampaulsackfield&custom_title=Adam%20Sackfield's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 </div>
