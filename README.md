@@ -18,8 +18,7 @@
 <br>
 
 - [x] 💪🏼 My portfolio contains a variety of different projects: Front-End, Back-End, Full-Stack, and DevOps.
-- [x] 💻 Tech Stack: JavaScript / TypeScript | Java / Spring | React / React Native | Node.js | SQL / MongoDB | Express | Jest | Cypress | Junit
-- [x] ☁️ DevOps: AWS | Server Management | HTTPS | Nginx | Apache | Docker / Vagrant | UFW
+- [x] 
 
 ---
   
@@ -67,6 +66,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%2373C3D5.svg?style=for-the-badge&logo=jenkins&logoColor=%23D24939)
 ![Ansible](https://img.shields.io/badge/ansible-%2373C3D5.svg?style=for-the-badge&logo=ansible&logoColor=%23EE0000)
 ![Terraform](https://img.shields.io/badge/terraform-%2373C3D5.svg?style=for-the-badge&logo=terraform&logoColor=%237B42BC)
+  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%2373C3D5.svg?style=for-the-badge&logo=github-actions&logoColor=%232088FF)
   
   **Operating Systems**
   <br>
