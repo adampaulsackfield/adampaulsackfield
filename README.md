@@ -76,7 +76,11 @@
   
   
  <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=adampaulsackfield&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=adampaulsackfield&theme=gruvbox&hide_border=true" />
+
+
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adampaulsackfield&theme=dracula&show_icons=true&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adampaulsackfield&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adampaulsackfield&theme=dracula&layout=compact&hide_border=true)
+
 </p>
 </div>
